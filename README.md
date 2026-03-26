@@ -14,6 +14,4 @@
 
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Rahul-14507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 ![Streak](https://streak-stats.demolab.com?user=Rahul-14507&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-14507&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
