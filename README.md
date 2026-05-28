@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on MData<br>🌱 I’m currently learning<br>💬 Ask me about Automation, Electronics & Robotics<br>⚡ Fun fact, I am a first year student
+🔭 I’m currently working on TeLLM<br>🌱 I’m currently learning<br>💬 Ask me about Automation, Electronics & Robotics<br>⚡ Fun fact, I am a first year student
 
 
 # 💻 Tech Stack:
